@@ -1,3 +1,23 @@
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">- Developer Java<br>- Developer at @Goodyear</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
